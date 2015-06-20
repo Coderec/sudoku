@@ -1,2 +1,2 @@
 # sudoku
-calculate sudoku with Dancing Links
+calculate sudoku with Dancing Links by Qt/C++
